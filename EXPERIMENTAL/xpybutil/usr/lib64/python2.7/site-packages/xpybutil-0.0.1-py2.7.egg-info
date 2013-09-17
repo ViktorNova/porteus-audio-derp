@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: xpybutil
+Version: 0.0.1
+Summary: An incomplete xcb-util port plus some extras
+Home-page: http://pytyle.com
+Author: Andrew Gallant
+Author-email: andrew@pytyle.com
+License: WTFPL
+Description: See README
+Platform: POSIX
