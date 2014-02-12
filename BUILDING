@@ -1,0 +1,32 @@
+
+This document is to keep track of what's included, how it was build, and what things have what dependencies.
+In case my build box blows up, this can help Stagecraft be created again quickly
+
+I lost the original version of this, so am slowly recreating it
+
+APPS
+
+non-session manager
+non-sequencer
+non-timeline
+non-mixer
+  --ntk
+  
+carla
+  --fluidsynth                        Studioware
+  --python3                           SBo
+  --pyqt4                             ABS (Python 2 & 3 mixed)
+  --sip                               ABS (Python 2 & 3 mixed)
+  
+PLUGINS
+
+calf-plugins-kxstudio
+  --ladspa                            Arch?
+  --lv2                               Arch?
+  
+  
+SYSTEM
+
+ifuse   (mount iOS filesystems)       SBo
+ --libimobiledevice                   SBo
+    -usbmuxd                          SBo
