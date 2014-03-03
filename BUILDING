@@ -8,11 +8,14 @@ rtpMIDI - A.K.A. 'Apple Network MIDI'
 			NodeJS from wheezy backports
 			NPM from script
     
+i3-git from AUR
+	-disabled building of man pages in PKGBUILD (it was failing and we don't need it)
 
 
 
-
-
+Building Debian packages from Arch/AUR
+	apt-get install bsdtar curl git subversion
+	ln -s /bin/bash /usr/bin/bash   (I should instead edit the 'makepkg' script to use /bin/bash) 
 
 
 
