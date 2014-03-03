@@ -1,3 +1,27 @@
+Edited system files
+~/.xsession
+
+
+rtpMIDI - A.K.A. 'Apple Network MIDI'
+    https://github.com/jdachtera/node-rtpmidi
+		    apt-get install libavahi-compat-libdnssd-dev 
+			NodeJS from wheezy backports
+			NPM from script
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+___________________________________________________________________________
 
 This document is to keep track of what's included, how it was build, and what things have what dependencies.
 In case my build box blows up, this can help Stagecraft be created again quickly
