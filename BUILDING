@@ -4,7 +4,7 @@ Edited system files
 
 rtpMIDI - A.K.A. 'Apple Network MIDI'
     https://github.com/jdachtera/node-rtpmidi
-		    apt-get install libavahi-compat-libdnssd-dev 
+		    apt-get install libavahi-compat-libdnssd-dev avahi-discover
 			NodeJS from wheezy backports
 			NPM from script
     
