@@ -6,7 +6,7 @@ rtpMIDI - A.K.A. 'Apple Network MIDI'
     https://github.com/jdachtera/node-rtpmidi
 		    apt-get install libavahi-compat-libdnssd-dev avahi-discover
 			NodeJS from wheezy backports
-			NPM from script
+			NPM: 'sudo curl http://npmjs.org/install.sh -L -o -| sh'
     
 i3-git from AUR
 	-disabled building of man pages in PKGBUILD (it was failing and we don't need it)
