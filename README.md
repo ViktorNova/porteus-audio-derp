@@ -1,6 +1,5 @@
-stagecraft
+audio production modules for porteus linux
 ==========
+i am only not deleting this in case somebody needs it someday and can't find anything more better-er (which probably won't happen)
 
-Real-time pro-audio appliance OS for modern electronic musicians and multimedia performances built on Linux, with a user interface designed to "boot and play" like pro-audio hardware does (this is not a 'desktop OS'). 
-
-Features such as network MIDI, OSC routing &amp; OSC &lt;=> MIDI translation, DMX lighting control, pattern based groove sequencer, drum sampler, and high-quality softsynths/effects, are all pre-configured and ready to go out of the box (among many others)
+I was possesed by a masochistic urge to create a linux distribution based off of Slackware, and changed my mind and based it off of UB-dCore, a hybrid of Tiny Core Linux and Ubuntu. I don't remember what  version of Porteus these were on, somewhere around the major Slackware Linux release that happened in 2014
